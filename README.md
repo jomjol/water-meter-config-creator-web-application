@@ -1,3 +1,7 @@
+<span style="color: red;">This code is depreciated and will not be maintained any more!</span> 
+
+A follow up application is: https://github.com/jomjol/AI-on-the-edge-device
+
 # water-meter-config-creator-web-application
 
 This is a configuration support for the water-meter project. The setup is stored in a configuration file (config.ini). The creation needs some background information and therefore a web application should support here. The overview on the overall project can be found here: [https://github.com/jomjol/water-meter-measurement-system](https://github.com/jomjol/water-meter-measurement-system)
